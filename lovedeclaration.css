@@ -1,20 +1,13 @@
-body {font-family: monotype corsiva;
+body {
+    font-family:monotype corsiva;
     font-size: 18px;
-    color:bisque;
-    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXEAiF7GMu4QvoKOUyO922IIPlqMwIdGlgLw&usqp=CAU');
+    color:#ff5ba5;
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8curITJpyUL5LD-Ckr47ROyBpoffm60Unmg&usqp=CAU');
     background-attachment:fixed;
     background-size:cover;
     background-repeat:no-repeat;
-    text-align: center;
-
-}
-h1{
-    color: #ff84bc;
-    font-family:great vibes;
-    text-align: center;
-
+    text-align:
 }
 p{
-    color: #ff5ba5;
-    font-family:allura;
+    font: monotype corsiva;
 }
